@@ -1,0 +1,21 @@
+# Local properties (contains SDK path and API keys — never commit)
+local.properties
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Keystore files
+*.jks
+*.keystore
+
+# Generated files
+app/src/main/assets/
